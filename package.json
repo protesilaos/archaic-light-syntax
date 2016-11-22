@@ -1,0 +1,18 @@
+{
+  "name": "archaic-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "Inspired by ancient wall paintings. Medium-to-high contrast.",
+  "keywords": [
+    "syntax",
+    "earthly",
+    "natural",
+    "vibrant",
+    "light"
+  ],
+  "repository": "https://github.com/protesilaos/archaic-light-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0"
+  }
+}
