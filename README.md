@@ -22,6 +22,6 @@ apm install archaic-syntax
 
 ## Further information
 
-Project page: [http://www.protesilaos.com/archaic](http://www.protesilaos.com/archaic)
+Project page: [https://protesilaos.com/archaic](https://protesilaos.com/archaic)
 
 Archaic dark version: [https://atom.io/themes/archaic-dark-syntax](https://atom.io/themes/archaic-dark-syntax)
